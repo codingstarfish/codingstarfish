@@ -1,16 +1,27 @@
-## Hi there 👋
+# Profile
 
-<!--
-**codingstarfish/codingstarfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+건국대학교 컴퓨터공학부 재학중 (2022.03~)
+## Achievements
+ <p>
+  2023년 건국대학교 프로그래밍 경진대회 Division1 5위
+  <a target="_blank" href=https://www.acmicpc.net/contest/spotboard/1172>(스코어보드)</a>
+  <br>
+  2024년 건국대학교 프로그래밍 경진대회 1위 
+  <a target="_blank" href=https://www.acmicpc.net/contest/spotboard/1410>(스코어보드)</a>
+</p>
 
-Here are some ideas to get you started:
+## Skills
+<p>
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+---
+
+[![CodeForces Profile](https://cf.leed.at?id=codingstarfish)](https://codeforces.com/profile/codingstarfish)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=codingstarfish) 
