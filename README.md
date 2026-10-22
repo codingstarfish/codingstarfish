@@ -9,6 +9,8 @@
   <br>
   2024년 건국대학교 프로그래밍 경진대회 1위 
   <a target="_blank" href=https://www.acmicpc.net/contest/spotboard/1410>(스코어보드)</a>
+  <br>
+  2026년 ICPC Seoul Regional 본선진출, 팀명:Junior's dream
 </p>
 
 ## Skills
