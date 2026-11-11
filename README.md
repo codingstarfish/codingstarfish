@@ -3,7 +3,7 @@
 
 ## Education
 - B.S. in Computer Science and Engineering, Konkuk University (Mar. 2022 - Present)
-
+    - Dean's List (Spring 2022, Spring 2023)
 ## Achievements
 - **5th Place**, 2023 Konkuk University Programming Contest (Division 1) ([Scoreboard](https://www.acmicpc.net/contest/spotboard/1172))
 - **1st Place**, 2024 Konkuk University Programming Contest ([Scoreboard](https://www.acmicpc.net/contest/spotboard/1410))
